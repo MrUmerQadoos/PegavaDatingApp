@@ -4,11 +4,6 @@
 
 ---
 
-### Fully responsive design
-Posted publicly at the [Figma Community](https://www.figma.com/community/file/1128472053077012222)
-
----
-
 ### **Videos**
 
 _(Themes are according to system preferences)_
